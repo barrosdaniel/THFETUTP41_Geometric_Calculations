@@ -5,12 +5,12 @@ DONE 2. Create a function that calculates the area of a rectangle.
 //    and return the area of that rectangle.
 //    The area of a rectangle is the width * height
 
-// 3. Create a function that calculates the volume of a rectangular prism.
+DONE 3. Create a function that calculates the volume of a rectangular prism.
 //    The function should accept the width, height and length as arguments
 //    and return the volume of that rectangular prism.
 //    The volume of a rectangular prism is the width * height * length
 
-// 4. Create a function that calculates the area of a circle.
+DONE 4. Create a function that calculates the area of a circle.
 //    The function should accept the radius of the circle as an argument
 //    and return the area of that circle.
 //    The area of a circle is the value of π * radius^2
