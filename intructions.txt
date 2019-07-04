@@ -1,6 +1,6 @@
 DONE 1. Attach this file geometry.js to the index.html file
 
-// 2. Create a function that calculates the area of a rectangle.
+DONE 2. Create a function that calculates the area of a rectangle.
 //    The function should accept the width and height as arguments
 //    and return the area of that rectangle.
 //    The area of a rectangle is the width * height
