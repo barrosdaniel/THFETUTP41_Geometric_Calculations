@@ -14,7 +14,6 @@ console.log(calculatePrismVolume(10, 20, 15));
 
 // Circle Area
 function calculateCircleArea(radius) {
-
   return Math.PI * Math.pow(radius, 2);
 }
 
@@ -23,7 +22,7 @@ console.log(calculateCircleArea(2));
 // Sphere Volume
 function calculateSphereVolume(radius) {
 
-  return Math.PI * Math.pow(radius, 2);
+  return 4 / 3 * Math.PI * Math.pow(radius, 3);
 }
 
-console.log(calculateCircleArea(2));
+console.log(calculateSphereVolume(5));
