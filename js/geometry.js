@@ -3,21 +3,15 @@ function calculateRectangleArea(width, height) {
   return width * height;
 }
 
-console.log(calculateRectangleArea(10, 20));
-
 // Prism Volume
 function calculatePrismVolume(width, height, length) {
   return width * height * length;
 }
 
-console.log(calculatePrismVolume(10, 20, 15));
-
 // Circle Area
 function calculateCircleArea(radius) {
   return Math.PI * Math.pow(radius, 2);
 }
-
-console.log(calculateCircleArea(2));
 
 // Sphere Volume
 function calculateSphereVolume(radius) {
@@ -25,4 +19,7 @@ function calculateSphereVolume(radius) {
   return 4 / 3 * Math.PI * Math.pow(radius, 3);
 }
 
-console.log(calculateSphereVolume(5));
+console.log(calculateRectangleArea(5, 22));
+console.log(calculatePrismVolume(4.5, 12.5, 17.4));
+console.log(calculateCircleArea(7.2));
+console.log(calculateSphereVolume(7.2));
